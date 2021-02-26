@@ -1,0 +1,7 @@
+{
+  "name": "loginFbGoogle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
