@@ -21,13 +21,20 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
-			<key>CFBundleURLName</key>
-			<string>com.getcapacitor.capacitor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>capacitor</string>
+			<string>fb911533176259242</string>
 			</array>
 		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>911533176259242</string>
+	<key>FacebookDisplayName</key>
+	<string>loginFbGoogle</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fbauth2</string>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
